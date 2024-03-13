@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Gonzalo Lorenzo and I'm on my way to become a developer. I currently live in Buenos Aires, Argentina.</p>
+<p align="left">My name is Gonzalo Lorenzo and I'm on my way to becoming a developer. I currently live in Buenos Aires, Argentina.</p>
 
 ###
 
